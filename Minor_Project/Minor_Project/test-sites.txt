@@ -1,0 +1,12 @@
+Legitimate:
+https://www.youtube.com/
+https://www.facebook.com/
+https://www.wikipedia.org/
+www.iitb.ac.in/
+
+www.interviewbit.com/
+www.geeksforgeeks.org/
+leetcode.com/problemset/all/
+
+
+Phishing:
